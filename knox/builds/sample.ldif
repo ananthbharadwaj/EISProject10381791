@@ -1,0 +1,6 @@
+# create FIRST Level groups branch
+dn: ou=groups,dc=hadoop,dc=apache,dc=org
+objectclass:top
+objectclass:organizationalUnit
+ou: groups
+description: generic groups branch
